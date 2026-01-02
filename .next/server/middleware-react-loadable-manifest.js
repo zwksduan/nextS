@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\layout\\MainContentWrap.tsx -> @openim/wasm-client-sdk":{"id":"..\\layout\\MainContentWrap.tsx -> @openim/wasm-client-sdk","files":[]}}
